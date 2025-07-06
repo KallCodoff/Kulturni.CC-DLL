@@ -13,6 +13,7 @@
 
 ## 👥 Авторы и контакты
 - **kallcode**: [Telegram](https://t.me/KallAdapter)  
-- **Kulturni**: [Telegram-канал](https://t.me/kulturnihouse)  
+- **Kulturni**: [Telegram-канал](https://t.me/kulturnihouse)
+- **Discord** : [Discord](https://discord.gg/Cd3tsr5A)
 
 > Приятного использования! (◕‿◕)  
